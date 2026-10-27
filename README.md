@@ -24,6 +24,8 @@ Share the repository URL and the direct link to the lab instructions. This repos
 
 Converted from the author's supplied Word lab document. The conversion preserves the exercise sequence, worksheets, timings, and source-reported validation notes. It cleans up headings, numbered steps, and duplicated table captions.
 
+On October 27, 2026, the published Markdown was compared with the newly supplied "Defender-XDR-L400-Security-CSA-Lab.docx." All instructional and worksheet text matched after accounting for Markdown formatting, list numbering, the public-copy identifier substitutions, and the documentation-link check note. All seven exercises and Worksheets A through G are present. No instructional changes were needed.
+
 The public copy replaces the original tenant ID, assigned-account address, and evidence IP address with placeholders. No source Word document, credentials, or access tokens are included.
 
 The source reports tenant validation on October 12, 2026. Conversion and publication do not constitute a new live-tenant validation. Values and portal behavior can change.
