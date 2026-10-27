@@ -1,0 +1,8 @@
+*.docx
+*.pptx
+~$*
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
